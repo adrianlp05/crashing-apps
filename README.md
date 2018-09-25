@@ -1,6 +1,6 @@
 # crashing-apps
 
-Safari html
+Safari html (http://rce.party/CRASH/safari-reaper.html)
 How to force restart any iOS device with just CSS? 💣
 
 Firefox html
